@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.16)
+project(SatelliteTelemetry)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+find_package(Threads REQUIRED)
+add_executable(satellite-telemetry main.cpp csv.cpp network.cpp simulation.cpp)
+target_include_directories(satellite-telemetry PRIVATE .)
+target_link_libraries(satellite-telemetry PRIVATE Threads::Threads)

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/anushkalal/satellite-telemetry/build",
+  "command": "/usr/bin/clang++  -I/Users/anushkalal/satellite-telemetry/. -g -std=gnu++17 -arch arm64 -o CMakeFiles/satellite-telemetry.dir/main.cpp.o -c /Users/anushkalal/satellite-telemetry/main.cpp",
+  "file": "/Users/anushkalal/satellite-telemetry/main.cpp",
+  "output": "CMakeFiles/satellite-telemetry.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/anushkalal/satellite-telemetry/build",
+  "command": "/usr/bin/clang++  -I/Users/anushkalal/satellite-telemetry/. -g -std=gnu++17 -arch arm64 -o CMakeFiles/satellite-telemetry.dir/csv.cpp.o -c /Users/anushkalal/satellite-telemetry/csv.cpp",
+  "file": "/Users/anushkalal/satellite-telemetry/csv.cpp",
+  "output": "CMakeFiles/satellite-telemetry.dir/csv.cpp.o"
+},
+{
+  "directory": "/Users/anushkalal/satellite-telemetry/build",
+  "command": "/usr/bin/clang++  -I/Users/anushkalal/satellite-telemetry/. -g -std=gnu++17 -arch arm64 -o CMakeFiles/satellite-telemetry.dir/network.cpp.o -c /Users/anushkalal/satellite-telemetry/network.cpp",
+  "file": "/Users/anushkalal/satellite-telemetry/network.cpp",
+  "output": "CMakeFiles/satellite-telemetry.dir/network.cpp.o"
+},
+{
+  "directory": "/Users/anushkalal/satellite-telemetry/build",
+  "command": "/usr/bin/clang++  -I/Users/anushkalal/satellite-telemetry/. -g -std=gnu++17 -arch arm64 -o CMakeFiles/satellite-telemetry.dir/simulation.cpp.o -c /Users/anushkalal/satellite-telemetry/simulation.cpp",
+  "file": "/Users/anushkalal/satellite-telemetry/simulation.cpp",
+  "output": "CMakeFiles/satellite-telemetry.dir/simulation.cpp.o"
+}
+]
